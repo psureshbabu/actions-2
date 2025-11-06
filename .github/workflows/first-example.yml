@@ -12,6 +12,6 @@ jobs:
         - name: List files
           run: ls
 
-        - name: Read Lines
+        - name: Read file
           run: cat READ.md    
 
